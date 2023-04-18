@@ -1,0 +1,24 @@
+body{
+    background-color: antiquewhite;
+}
+
+.tela{
+    position: relative;
+    text-align: center;
+    align-items: column;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.imagem{
+    border: solid;
+    border-radius: 25%;
+    border-color: black;
+}
+
+.comentarios{
+    background-color: aliceblue;
+    text-align: center;
+    border: solid;
+    border-radius: 15%;
+    font-family: 'Times New Roman', Times, serif;
+}
